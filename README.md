@@ -6,7 +6,9 @@
 -  [Day 4 - Giant Squid](./day04_GiantSquid.ipynb)
 -  [Day 5 - Hydrothermal Venture](./day05_HydrothermalVenture.ipynb)
 -  [Day 6 - Lanternfish](./day06_Lanternfish.ipynb)
--  [Day 7 - The Treachery of Whales](./day07_WhalesTreachery.ipynb)
+-  [Day 7 - The Treachery of Whales](./day07_WhalesTreachery.ipynb)  
+-  [Day 8 - Seven Segment Search](./day08_SevenSegmentSearch.ipynb)  
+
 
 ```python
 
