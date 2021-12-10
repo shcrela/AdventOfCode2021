@@ -7,7 +7,9 @@
 -  [Day 5 - Hydrothermal Venture](./day05_HydrothermalVenture.ipynb)
 -  [Day 6 - Lanternfish](./day06_Lanternfish.ipynb)
 -  [Day 7 - The Treachery of Whales](./day07_WhalesTreachery.ipynb)  
--  [Day 8 - Seven Segment Search](./day08_SevenSegmentSearch.ipynb)  
+-  [Day 8 - Seven Segment Search](./day08_SevenSegmentSearch.ipynb) 
+-  [Day 9 - Smoke Basin](./day09_SmokeBasin.ipynb)  
+-  [Day 10 - Syntax Scoring](./day10_SyntaxScoring.ipynb)
 
 
 ```python
