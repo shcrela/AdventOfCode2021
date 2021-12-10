@@ -32,8 +32,12 @@ ax.set_xticks(np.arange(-.5, 51, 5))
 ax.set_xticklabels("")
 ax.set_yticks(np.arange(-.5, 51, 5))
 ax.set_yticklabels("")
-ax.grid(which='major', linewidth=1, color='w', linestyle='-')
-
+ax.set_xticks(np.arange(-.5, 50, 1), minor=True)
+ax.set_xticklabels("", minor=True)
+ax.set_yticks(np.arange(-.5, 50, 1), minor=True)
+ax.set_yticklabels("", minor=True)
+ax.grid(which='major', linewidth=3, color='dimgray', linestyle='-')
+ax.grid(which='minor', linewidth=.5, color='gray', linestyle='-')
 def update(num):
     global boards, marked_numbers, sequence, unfilled_boards, n_board, winning_boards, r, b, ax
     broj = sequence[num]
