@@ -9,7 +9,9 @@
 -  [Day 7 - The Treachery of Whales](./day07_WhalesTreachery.ipynb)  
 -  [Day 8 - Seven Segment Search](./day08_SevenSegmentSearch.ipynb) 
 -  [Day 9 - Smoke Basin](./day09_SmokeBasin.ipynb)  
--  [Day 10 - Syntax Scoring](./day10_SyntaxScoring.ipynb)
+-  [Day 10 - Syntax Scoring](./day10_SyntaxScoring.ipynb)  
+-  [Day 11 - Dumbo Octopus](./day11_DumboOctopus.ipynb)  
+
 
 
 ```python
